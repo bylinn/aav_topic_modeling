@@ -1,6 +1,13 @@
 # topic_modeling
 
+
+Title: Topic Modeling to Characterize the Natural History of ANCA-Associated Vasculitis from Clinical Notes: A Proof of Concept Study
+Authors: Liqin Wang, Ph.D., Eli Miloslavsky, M.D., John H. Stone, MD, MPH, Hyon K. Choi, MD, DrPH, Li Zhou, Ph.D., M.D., Zachary S. Wallace, M.D., M.Sc.
+
+The python codes in this folder were used for above research study. 
+
 -- Generate stable topics
+
 After running the Mallet, LDA-based topic modeling, to generate three topic models, use the topic_distance.py to generate stable topics. 
 
 Commands: 
